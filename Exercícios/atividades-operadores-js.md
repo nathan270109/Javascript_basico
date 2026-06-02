@@ -6,7 +6,7 @@
 
 ## ➕ Operadores Aritméticos
 
-> `+` `-` `*` `/` `%` `**`
+> `+` `-` `*` `/` `%` `**` 
 
 1. **Calculadora simples** — Declare duas variáveis numéricas e exiba o resultado da soma, subtração, multiplicação e divisão entre elas.
 
