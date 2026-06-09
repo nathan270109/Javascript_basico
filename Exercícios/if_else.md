@@ -311,7 +311,7 @@ Caso não seja válida, informe o motivo.
 - Todos os meses possuem 31 dias;
 - O ano atual é 2013.
 
----
+--- 
 
 ## 27. Troca de valores
 Crie um programa que:
