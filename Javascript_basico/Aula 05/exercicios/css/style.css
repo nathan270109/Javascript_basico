@@ -1,0 +1,29 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+:root{
+    --branco: #ffff;
+    --preto: #000000;
+    --cor1: #ecf3fdb9;
+    --cor2: #ffff;
+    --cor3: #ffff;
+    --cor4: #ffff;
+    --cor5: #ffff;
+    --cor6: #ffff;
+}
+
+body {
+    background-color: var(--cor1);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+.icon {
+    padding: 10px;
+}
